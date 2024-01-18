@@ -1,0 +1,1 @@
+A Pomodoro clock implemented in Python with a graphical user interface using Tkinter. The Pomodoro technique is a time management method that uses a timer to break down work into intervals, traditionally 25 minutes in length, separated by short breaks.
